@@ -1,4 +1,4 @@
-# Phishing Simulation & Credential Harvesting Lab (Gophish)
+# Phishing Simulation & Credential Harvesting Lab (Gophish) Project#1
 
 An authorized, educational cybersecurity portfolio project demonstrating phishing simulation mechanics, credential harvesting workflows, and campaign metric tracking using local infrastructure.
 
